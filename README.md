@@ -1,6 +1,6 @@
 # STBminev
 
-# CCMINER GUIDE By tomyrambozha
+# CCMINER GUIDE
 thanks for :
 original sourced by : 
    Christian Buchner ( Christian.Buchner@gmail.com )
@@ -15,7 +15,7 @@ You need to install armbian first :
 <a href=https://k-space.ee.armbian.com/archive/aml-s9xx-box/archive/Armbian_23.02.2_Aml-s9xx-box_jammy_current_6.1.11.img.xz>Jammy current</a> <br>
 <a href=https://k-space.ee.armbian.com/archive/aml-s9xx-box/archive/Armbian_23.11.1_Aml-s9xx-box_bookworm_current_6.1.63.img.xz>Book woorm </a> <br>
 
-Or Download From Ophub Release HEre :
+Or Download From Ophub Release Here :
 <a href=https://github.com/ophub/amlogic-s9xxx-armbian/releases> DOWNLOAD </a> <br>
 
 
